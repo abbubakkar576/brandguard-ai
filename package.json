@@ -1,0 +1,20 @@
+{
+  "name": "brandguard-ai",
+  "version": "1.0.0",
+  "description": "AI-powered brand governance and content compliance platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "serve": "node server.js"
+  },
+  "keywords": [
+    "brand-governance",
+    "content-moderation",
+    "gemini-ai",
+    "compliance",
+    "react",
+    "tailwind"
+  ],
+  "author": "BrandGuard AI Team",
+  "license": "MIT"
+}
